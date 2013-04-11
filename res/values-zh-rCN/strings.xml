@@ -2609,7 +2609,6 @@
     <string name="advanced_reboot_title">高级重启</string>
     <string name="advanced_reboot_summary">解锁设备后, 在电源菜单的重启选项下加入重启至恢复模式与引导程序的选择</string>
 
-
     <!-- Navigation bar buttons and shortcuts category title -->
     <string name="navigation_bar_category">导航栏</string>
 
@@ -2629,6 +2628,18 @@
     <string name="navring_action_torch">手电筒开关</string>
     <string name="navring_action_google_now">Google 即时</string>
     <string name="navring_choose_action_title">选择操作</string>
+    
+    <!-- Quick/Pie Control #CM -->
+    <string name="pie_control_title">Pie 控制</string>
+    <string name="pie_control_enabled">扩展桌面启用时有效</string>
+    <string name="pie_control_disabled">关闭</string>
+    <string name="pie_control_size">导航键大小</string>
+    <string name="pie_control_trigger_positions">触发位置</string>
+    <string name="pie_control_trigger_left">屏幕左边框</string>
+    <string name="pie_control_trigger_bottom">屏幕底边框</string>
+    <string name="pie_control_trigger_right">屏幕右边框</string>
+    <string name="pie_control_trigger_top">屏幕顶边框</string>
+    <string name="pie_control_trigger_top_summary">状态栏将显示导航图标</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 
